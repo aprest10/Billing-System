@@ -4,4 +4,4 @@ A C program that creates and stores invoices for different users. Invoices will 
 
 [main.c](/main.c): source code
 
-[Bills-R-Us](/Bills-R-Us): Executable file
+[Bills-R-Us](https://github.com/aprest10/Billing-System/raw/main/Bills_R_Us): Executable file
