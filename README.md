@@ -6,4 +6,4 @@ A C program that creates and stores invoices for different users. Invoices will 
 
 [bills.h](/bills.h): holds functions
 
-[Bills-R-Us](https://github.com/aprest10/Billing-System/raw/main/Bills-R-Us): Executable file
+[Bills-R-Us](https://github.com/aprest10/Billing-System/raw/main/Bills-R-Us): Executable file (Download)
