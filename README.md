@@ -6,6 +6,6 @@ A C program that creates and stores invoices for different users. Invoices will 
 
 [bills.h](/bills.h): holds functions
 
-[Makefile](/Makefile): creates the executable using the 'make' command
+[Makefile](/Makefile): creates the executable
 
 [Bills-R-Us](https://github.com/aprest10/Billing-System/raw/main/Bills-R-Us): Executable file (Download)
